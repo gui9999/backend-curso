@@ -37,6 +37,6 @@ app.get('/api/noticias/:id', async (req, res) => {
 
 
 //Inicializa Server
-app.listen('80', '10.4.240.83');
+app.listen('80', '10.4.240.90');
 
 
